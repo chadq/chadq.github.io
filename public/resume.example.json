@@ -1,11 +1,11 @@
 {
     "basics": {
-        "name": "<FULL_NAME>",
-        "label": "<PROFESSION>",
-        "picture": "<PHOTO>",
-        "email": "<EMAIL_ADDRESS>",
-        "phone": "<PHONE_NUMBER>",
-        "website": "<WEBSITE>",
+        "name": "Chad Quimby",
+        "label": "Sytem Engineer / Software Engineer (DevOps)",
+        "picture": "images/me.jpg",
+        "email": "chadquimby@gmail.com",
+        "phone": "206-979-9866",
+        "website": "https://chadq.github.io",
         "summary": [
             "<SUMMARY_1>",
             "<SUMMARY_2>",
